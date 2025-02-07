@@ -1,5 +1,4 @@
-API Performance Test
-
+**API Performance Test**<br/><br/><br/>
 **Overview**
 
 This README provides instructions for executing the JMeter performance test for the following APIs:
